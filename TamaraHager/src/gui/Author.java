@@ -5,6 +5,7 @@ import javax.swing.JDialog;
 
 /**
  * @author Hager
+ * @version 01
  * erstellt ein Benachrichtigungsfenster mit Informationen über die Autoren und Versionen
  */
 public class Author {
